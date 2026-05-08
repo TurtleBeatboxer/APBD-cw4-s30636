@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+
+# Build results
+[Bb]in/
+[Oo]bj/
